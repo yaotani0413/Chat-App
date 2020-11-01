@@ -3,24 +3,28 @@
     "name": "login",
     "path": "/login",
     "component": "/Users/a.yaotani/Desktop/Chat-App/pages/login.vue",
-    "chunkName": "pages/login"
+    "chunkName": "pages/login",
+    "_name": "_3fe6531a"
   },
   {
     "name": "register",
     "path": "/register",
     "component": "/Users/a.yaotani/Desktop/Chat-App/pages/register.vue",
-    "chunkName": "pages/register"
+    "chunkName": "pages/register",
+    "_name": "_977e6cee"
   },
   {
     "name": "rooms-id",
     "path": "/rooms/:id?",
     "component": "/Users/a.yaotani/Desktop/Chat-App/pages/rooms/_id.vue",
-    "chunkName": "pages/rooms/_id"
+    "chunkName": "pages/rooms/_id",
+    "_name": "_4f7a5f2d"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/a.yaotani/Desktop/Chat-App/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_1665335c"
   }
 ]
