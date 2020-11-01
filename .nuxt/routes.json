@@ -1,0 +1,26 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/a.yaotani/Desktop/Chat-App/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/a.yaotani/Desktop/Chat-App/pages/register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "rooms-id",
+    "path": "/rooms/:id?",
+    "component": "/Users/a.yaotani/Desktop/Chat-App/pages/rooms/_id.vue",
+    "chunkName": "pages/rooms/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/a.yaotani/Desktop/Chat-App/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
